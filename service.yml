@@ -1,0 +1,9 @@
+storages:
+    database:
+        client: ${$SQL_CLIENT}
+        connection:
+            host: ${process.env.SQL_HOST}
+            port: ${process.env.SQL_PORT}
+            user: ${process.env.SQL_USER}
+            passwrd: ${process.env.SQL_PASSWORD}
+            database: ${process.env.SQL_DATABASE}

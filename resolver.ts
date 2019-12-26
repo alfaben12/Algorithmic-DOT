@@ -1,0 +1,1 @@
+resolveConfig(service: yml): JSON
