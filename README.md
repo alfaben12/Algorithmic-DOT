@@ -3,7 +3,7 @@
 
 ```bash
 1. npm install
-2. nodemon server.s
+2. nodemon server.js
 3. endpoint
    - http://localhost:3009/
 NB: run on port 3009
